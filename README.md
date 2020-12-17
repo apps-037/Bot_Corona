@@ -13,6 +13,7 @@ SQLAlchemy==1.1.11
  4. Demo will be live at http://localhost:5000/
 
 ## ScreenShots:
+https://github.com/apps-037/chatbot_python/blob/main/chatbot-2/train.PNG
 
 ## References:
 1. https://pypi.org/project/chatterbot-corpus/
