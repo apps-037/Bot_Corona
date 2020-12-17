@@ -1,0 +1,29 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is nikita
+bot : - Hello! your name has been stored. What is your age?
+user : my age is 20
+bot : - okay. your age has been stored. Which city do you live in?
+user : I live in jabalpur
+bot : - okay location stored. Welcome to medical portal. Say Hi!
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I am sick
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : My nose is choked
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : Yes I have cold
+bot : - You should take a ibuprofen tablet after your meal, Also if there is fever then you must contact the nearest COVID center .
+user : Ok I will do that
+bot : - let me know if you are feeling better.
+user : I took Ibuprofen tablet
+bot : - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
+user : No, I am still not feeling better
+bot : - Ok, its not just a normal cold, you should consult a doctor.
+user : Thanks
+bot : - happy to help!
+user : should we take hydroxychloroquine for cocronavirus treatment
+bot : - There are currently no drugs licensed for the treatment or prevention of COVID-19.While several drug trials are ongoing, there is currently no proof that hydroxychloroquine or any other drug can cure or prevent COVID-19. The misuse of hydroxychloroquine can cause serious side effects and illness and even lead to death.
+user : what should we do to prevent corona
+bot : - The virus that cause COVID-19 spreads primarily through droplets generated when an infected person coughs, sneezes or speaks. You can also become infected by touching a contaminated surface and then touching your eyes, nose or mouth before washing your hands.
+user : what preventions should i take?
+bot : -1STAYhome\n2KEEPa safe distance\n3WASHhands often\n4COVERyour cough\n5SICK?Call the helpline

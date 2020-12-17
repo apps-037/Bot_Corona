@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is nikita
+bot : - Hello! your name has been stored. What is your age?
+user : my age is 20
+bot : - okay. your age has been stored. Which city do you live in?
+user : i live in jabalpur
+bot : - okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : - Hello. How are you feeling today?
+user : i am good
+bot : - good to know. how may i assist you then?
+user : I am feeling tired 
+bot : - good to know. how may i assist you then?
+user : i am feeling sick
+bot : - good to know. how may i assist you then?

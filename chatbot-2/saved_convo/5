@@ -1,0 +1,11 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is nikita
+bot : - Hello! your name has been stored. What is your age?
+user : 20
+bot : - - are you online?
+user : yes
+bot : - Bye. Nice talking to you
+user : i am having headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : migrane headache
+bot : - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?

@@ -1,0 +1,9 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is nikita 
+bot : - Hello! your name has been stored. What is your age?
+user : 20
+bot : - - are you online?
+user : no
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : can we catch corona virus twice
+bot : - yes , there are cases in which people are found positive after 70 days of being recovered . So recovered people should take preventive measure after being negative tested .
