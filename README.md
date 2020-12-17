@@ -13,9 +13,10 @@ SQLAlchemy==1.1.11
  4. Demo will be live at http://localhost:5000/
 
 ## ScreenShots:
-   TRAINING:
+    TRAINING:
 <img width="600" alt="train" src="https://user-images.githubusercontent.com/60502274/102504371-c0e64f80-40a6-11eb-99e7-5ac1fd7ae2f0.PNG">
-    CHATS WITH THE MEDIBOT:
+   
+   CHATS WITH THE MEDIBOT:
     <img width="956" alt="ss1" src="https://user-images.githubusercontent.com/60502274/102504797-4964f000-40a7-11eb-80e9-17b313d5ddd0.PNG">
     
    <img width="941" alt="ss2" src="https://user-images.githubusercontent.com/60502274/102504810-4cf87700-40a7-11eb-94b9-fae899968232.PNG">
