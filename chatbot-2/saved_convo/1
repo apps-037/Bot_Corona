@@ -1,9 +1,9 @@
 bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
-user : my name is atulya
+user : My name is atulya
 bot : - Hello! your name has been stored. What is your age?
-user : my age is 20
-bot : - okay. your age has been stored. Which city do you live in?
-user : i live in mumbai
+user : My age is 20
+bot : - Okay. your age has been stored. Which city do you live in?
+user : I live in mumbai
 bot : - okay location stored. Welcome to medical portal. Say Hi!
 user : Hi
 bot : - Hello. How are you feeling today?
