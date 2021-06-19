@@ -1,4 +1,4 @@
-# flask-chatbot
+# Flask-chatbot
 Built on python 3.6
 Flask==0.11
 chatterbot==0.8.4
